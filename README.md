@@ -46,7 +46,7 @@
 ---
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Omar Rodriguez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-rodriguez-300705197/)
+[![Linkedin](https://img.shields.io/badge/-OmarRodriguez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-rodriguez-300705197/)
 [![Instagram](https://img.shields.io/badge/-Omar_rene29-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/omar_rene29/)
 [![Gmail](https://img.shields.io/badge/-Omarrv2904-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Omarrv2904@gmail.com)
 

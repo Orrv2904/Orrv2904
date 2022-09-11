@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Hello everyone
+## 
 
 - 👨‍💻 I'm a systems engineering student.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅

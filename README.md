@@ -1,10 +1,6 @@
 # Hi there, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-<img src="https://pin.it/6A6lToq" alt="Welcome!" width="300"/>
 
-
-
-## 
-
+ 
 - 👨‍💻 I'm a systems engineering student.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.

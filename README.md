@@ -7,11 +7,17 @@
 
 ---
 ### Contact with me 📝
+<br>
 
+  <a href="https://www.linkedin.com/in/omar-rodriguez-300705197/">
+    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:Omarrv2904@gmail.com">
+    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+  
+<br>
 
-
-
-<br />
 
 ---
 

@@ -9,10 +9,6 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
-
-[![Spotify]](https://open.spotify.com/playlist/3MshzDYjFYTAMBUx5lLIdc?si=1f11171996ed4c73)
-
 ---
 
 
